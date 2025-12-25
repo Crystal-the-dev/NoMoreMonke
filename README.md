@@ -1,7 +1,3 @@
-## Crystal´s Template for making gorilla tag mods!
-
-- **What is this?**
-- **A gorilla tag mod making template.**
-
-- **Btw credits to graic for the original template that i edited**
-## Idk what to type over here the official one is from graic which i just edited to work instantly out of the box or with you ALMOST not doing anything!
+## Please read this before you use it!
+**THIS MOD WILL UNINSTALL YOUR WHOLE GORILLA TAG FOLDER WHICH MEANS ALL YOUR PLUGINS ECT WILL BE GONE TOO!**
+**I AM ALSO NOT RESPONSIBLE FOR ANY DAMAGES THAT THIS MOD HAS CAUSED**
